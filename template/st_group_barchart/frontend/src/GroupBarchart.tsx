@@ -56,6 +56,7 @@ class GroupBarchart extends StreamlitComponentBase {
 
 	private options = {
 		responsive: true,
+		maintainAspectRatio: false,
 		plugins: {
 			tooltip: {
 				enabled: true
