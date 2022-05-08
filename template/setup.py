@@ -7,7 +7,7 @@ README = (HERE / ".." / "README.md").read_text()
 
 setuptools.setup(
 	name="st_group_barchart",
-	version="0.0.1",
+	version="0.0.2",
 	author="Mihai Blebea",
 	author_email="mihaiserban.blebea@gmail.com",
 	description="This package provides a group barchart component for Streamlit",
